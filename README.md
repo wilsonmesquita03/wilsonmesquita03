@@ -6,5 +6,7 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Technologies: React
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonmesquita03&show_icons=true&theme=radical)
-
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilsonmesquita03&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmesquita03&langs_count=8&theme=radical&show_icons=true"/>
+</div>
