@@ -1,4 +1,4 @@
-### Olá sou o Wilson, Sou um desenvolvedor Front End e estudante de Back End 👋
+### Olá sou o Wilson, Sou desenvolvedor Front End e estudante de Back End 👋
 
 - 🌱 Estudando back end com Node e Express
 - 💬 Me pergunte sobre filmes e séries de ficção
