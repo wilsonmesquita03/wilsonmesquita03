@@ -5,3 +5,5 @@
 - 📫 How to reach me: wilsonbrasilplauforever@gmail.com
 - 😄 Pronouns: ele/dele
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonmesquita03&show_icons=true&theme=radical)
+
