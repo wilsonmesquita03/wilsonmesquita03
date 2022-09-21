@@ -37,4 +37,8 @@
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=21970749508"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 
+##
+
+![Snake animation](https://github.com/wilsonmesquita03/wilsonmesquita03/blob/output/github-contribution-grid-snake.svg)
+
 
