@@ -1,6 +1,6 @@
 ### Olá sou o Wilson, Sou desenvolvedor Front End e estudante de Back End 👋
 
-- 🌱 Estudando back end com Node e Express
+- 🌱 Estudando back end com Python e Django
 - 💬 Me pergunte sobre jogos, filmes e séries de ficção
 - 📫 How to reach me: wilsonbrasilplauforever@gmail.com
 - 😄 Pronouns: ele/dele
