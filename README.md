@@ -1,6 +1,6 @@
 ### Olá sou o Wilson, Sou desenvolvedor Full Stack 👋
 
-- 🌱 Estudando back end com Python e Django
+- 🌱 A procura de oportunidades
 - 💬 Me pergunte sobre jogos, filmes e séries de ficção
 - 📫 How to reach me: wilsonbrasilplauforever@gmail.com
 - 😄 Pronouns: ele/dele
