@@ -1,4 +1,4 @@
-### Olá sou o Wilson, Sou desenvolvedor Front End e estudante de Back End 👋
+### Olá sou o Wilson, Sou desenvolvedor Full Stack 👋
 
 - 🌱 Estudando back end com Python e Django
 - 💬 Me pergunte sobre jogos, filmes e séries de ficção
