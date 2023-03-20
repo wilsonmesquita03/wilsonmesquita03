@@ -7,9 +7,33 @@
 
 ##
 
-<div>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=wilsonmesquita03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonmesquita03&layout=compact&langs_count=16&theme=radical&show_icons=true"/>
+<div align="center">
+  <picture>
+    <source 
+      height="180em"
+      srcset="https://github-readme-stats.vercel.app/api?username=wilsonmesquita03&show_icons=true&theme=radical&count_private=true&bg_color=0a0116"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height="180em"
+      srcset="https://github-readme-stats.vercel.app/api?username=wilsonmesquita03&show_icons=true&theme=radical&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilsonmesquita03&show_icons=true&count_private=true" />
+  </picture>
+  <picture>
+    <source 
+      height="180em"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonmesquita03&show_icons=true&theme=radical&count_private=true&layout=compact&bg_color=0a0116"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height="180em"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonmesquita03&show_icons=true&theme=radical&count_private=true&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonmesquita03&show_icons=true&count_private=true&layout=compact" />
+  </picture>
 </div>
 
 ## My Techs
