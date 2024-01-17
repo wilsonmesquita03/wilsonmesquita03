@@ -1,6 +1,5 @@
 ### Olá sou o Wilson, Sou desenvolvedor Full Stack 👋
 
-- 🌱 A procura de oportunidades
 - 💬 Me pergunte sobre jogos, filmes e séries de ficção
 - 📫 How to reach me: wilsonbrasilplauforever@gmail.com
 - 😄 Pronouns: ele/dele
