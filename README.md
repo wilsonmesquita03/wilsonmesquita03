@@ -35,6 +35,3 @@
   </picture>
 </div>
 
-![Snake animation](https://github.com/wilsonmesquita03/wilsonmesquita03/blob/output/github-contribution-grid-snake.svg)
-
-
